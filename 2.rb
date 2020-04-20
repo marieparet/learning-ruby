@@ -6,7 +6,7 @@ password = ARGV[1]
 if list_prenoms_autorises.include?(name) && password == "azerty"
     puts "Hello Administrator #{name}"
 else
-    puts 'Casse toi connard'
+    puts 'Casse toi stp'
 end
 
 
